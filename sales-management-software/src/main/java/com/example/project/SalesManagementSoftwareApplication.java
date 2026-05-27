@@ -1,7 +1,8 @@
-package com.g4fpt.sms;
+package com.example.project;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
+
 
 @SpringBootApplication
 public class SalesManagementSoftwareApplication {
